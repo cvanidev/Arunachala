@@ -1116,7 +1116,7 @@ img[class*="wp-image-"],
 .entry-content img,
 .widget img,
 img.size-full {
-	margin: 0 0 1.5em 0;
+	margin-bottom: 1.5em;
 	max-width: 100%;
 	width: auto; /* Prevent stretching of full-size images with height and width attributes in IE8 */
 }
