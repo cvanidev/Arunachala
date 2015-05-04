@@ -1,4 +1,4 @@
-== Arunachala 1.4 ==
+== Arunachala 1.5 ==
 
 Designed and developed by http://cvani.in 
 Demo: http://cvani.in/arunachala
@@ -29,7 +29,7 @@ By default latest posts from all categories are displayed in a grid format on ho
     - From Dashboard, go to Appearance > Customize > Homepage Content Category
     - Select a category for homepage.
 
-For more details, visit http://cvani.in/blog/arunachala/
+For more details, visit http://cvani.in/themes/arunachala/
 
 == Theme Support ==
 For support, please visit: http://wordpress.org/support/theme/arunachala
